@@ -1,0 +1,26 @@
+{
+  "blockedList": {},
+  "editorDragMouseButton": -1.0,
+  "editorLastVersion": "0.6.19b",
+  "editorMenuMouseButton": 1.0,
+  "editorRecentProjects": [
+    "C:\\Users\\miker\\curseforge\\minecraft\\Instances\\Eventos\\projects\\Guardia_Calamar.cpmproject",
+    "C:\\Users\\miker\\curseforge\\minecraft\\Instances\\Eventos\\projects\\Guardia_ender.cpmproject",
+    "C:\\Users\\miker\\curseforge\\minecraft\\Instances\\Eventos\\projects\\Guardia_Crepeer.cpmproject"
+  ],
+  "editorRotateMouseButton": 2.0,
+  "editorSelectMouseButton": 0.0,
+  "keybinds": {
+    "qa_1_mode": "press",
+    "qa_1": "p"
+  },
+  "serverSettings": {},
+  "titleScreenButton": true,
+  "playerSettings": {},
+  "globalSettings": {},
+  "friendSettings": {},
+  "friendList": {},
+  "safetyProfiles": {},
+  "selectedModel": "Yo1.cpmmodel",
+  "editorUVAreaAlpha": 0.8
+}

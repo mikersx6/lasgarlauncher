@@ -1,0 +1,23 @@
+{
+  "mod_enabled": "Yes",
+  "allow_broadcast": "No",
+  "render_speed": "Yes",
+  "render_map": "Yes",
+  "render_race_status": "Yes",
+  "render_leaderboard": "Yes",
+  "move_chat_higher": "Yes",
+  "move_hp_lower": "Yes",
+  "render_default_scoreboard": "Yes",
+  "render_default_overlay": "No",
+  "render_hotbar": "No",
+  "render_hp": "Yes",
+  "speed_x": 50,
+  "speed_y": 85,
+  "map_x": 0,
+  "map_y": 100,
+  "map_depth": 10,
+  "status_x": 50,
+  "status_y": 0,
+  "leaderboard_x": 0,
+  "leaderboard_y": 0
+}
