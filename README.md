@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/Srm0PC9.png" alt="Lasgar logo"/>
+</p>
+
 LasgarLauncher
 =======
 
