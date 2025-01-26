@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/MYlxOPO.png" alt="Lasgar logo"/>
+  <img src="https://i.imgur.com/vKCwaEg.png" alt="Lasgar logo"/>
 </p>
 
 LasgarLauncher
