@@ -1,4 +1,12 @@
 {
   "minimumVersion" : 1,
-  "packages" : [ ]
+  "packages" : [
+    {
+      "title" : null,
+      "name" : "Lasgar",
+      "version" : "1.0.0",
+      "location" : "lasgar.json",
+      "priority" : 0
+    }
+  ]
 }
