@@ -2,10 +2,10 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : null,
-      "name" : "Lasgar",
-      "version" : "1.0.0",
-      "location" : "lasgar.json",
+      "title" : "Vandreex",
+      "name" : "ivan",
+      "version" : "2025-02-15-17-53-37",
+      "location" : "ivan.json",
       "priority" : 0
     }
   ]
