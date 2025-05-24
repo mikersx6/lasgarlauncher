@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.imgur.com/vKCwaEg.png" alt="Lasgar logo"/>
+  <img src="https://i.imgur.com/bflsSPU.jpeg" alt="Arcana logo"/>
 </p>
 
-LasgarLauncher
+Arcana Launcher
 =======
 
-LasgarLauncher is a custom launcher for Minecraft that focuses on private, long term stability, simplicity and an auto-updatable experience.
+Arcana Launcher is a custom launcher for Minecraft that focuses on private, long term stability, simplicity and an auto-updatable experience.
