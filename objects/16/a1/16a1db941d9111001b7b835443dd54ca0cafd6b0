@@ -1,0 +1,13 @@
+{
+	"name": "Stove",
+	"icon": "farmersdelight:stove",
+	"category": "patchouli:farmersdelight",
+	"pages": [
+		{
+		"type": "patchouli:crafting",
+		"recipe": "farmersdelight:stove",
+		"title": "Stove",
+		"text": "The stove serves as a heat source for cooking using utensils."
+		}
+	]
+}

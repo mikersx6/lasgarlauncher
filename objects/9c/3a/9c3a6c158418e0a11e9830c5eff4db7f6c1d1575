@@ -1,0 +1,27 @@
+{
+    "name": "Cooking Pot",
+    "icon": "farmersdelight:cooking_pot",
+    "category": "patchouli:farmersdelight",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:cooking_pot",
+            "title": "Cooking Pot",
+            "text": "The cooking pot is used to prepare stews and soups. It needs to be placed over a heat source."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Structure of Cooking Pot",
+			"multiblock": {
+				"pattern": [
+					[ " G "],
+					[ " 0 "]
+				],
+				"mapping": {
+					"G": "farmersdelight:cooking_pot",
+					"0": "farmersdelight:stove"
+				}
+			}
+        }
+    ]
+}

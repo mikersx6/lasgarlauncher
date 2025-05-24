@@ -1,0 +1,78 @@
+{
+    "name": "Advanced Meals",
+    "icon": "farmersdelight:stuffed_potato",
+    "category": "patchouli:farmersdelight",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Platos deliciosos",
+            "text": "Farmer's Delight añade platos nutritivos y sabrosos. Aquí tienes una lista completa de las recetas disponibles para cocinar en la olla o sartén."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:stuffed_potato",
+            "title": "Patata Rellena",
+            "text": "Una comida potente que combina patatas, carne y leche."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:bacon_and_eggs",
+            "title": "Bacon y huevos",
+            "text": "Un desayuno clásico que sacia el hambre."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:vegetable_soup",
+            "title": "Sopa de vegetales",
+            "text": "En una olla, agregue una remolacha, una papa, una zanahoria y un repollo o una hoja de repollo."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:chicken_soup",
+            "title": "Sopa de pollo",
+            "text": "En una olla, agregue el pollo crudo o el pollo crudo cortado junto con la zanahoria, la cebolla y el repollo o una hoja de repollo."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:beef_stew",
+            "title": "Estofado De Carne",
+            "text": "En una olla, agregue carne picada/cruda, zanahoria y papa."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:pasta_with_meatballs",
+            "title": "Pasta con albondigas",
+            "text": "En una olla, agregue la carne picada, la pasta cruda y la salsa de tomate."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:fish_stew",
+            "title": "Guiso De Pescado",
+            "text": "En una olla, agregue el pescado crudo, la salsa de tomate y una cebolla."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:ratatouille",
+            "title": "Ratatouille",
+            "text": "En una olla, agregue una remolacha, cebolla, tomate y cualquier verdura."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:cooked_rice",
+            "title": "Arroz Cocido",
+            "text": "En una olla, agrega el arroz."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:salmon_roll",
+            "title": "Rollo de salmón",
+            "text": "Se pueden preparar dos rollitos de salmón con dos rodajas de salmón crudo y un arroz cocido."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:noodle_soup",
+            "title": "Sopa de fideos",
+            "text": "En una olla, agregue un huevo frito, pasta cruda, algas secas y tocino crudo o chuleta de cerdo cruda."
+        }
+    ]
+}

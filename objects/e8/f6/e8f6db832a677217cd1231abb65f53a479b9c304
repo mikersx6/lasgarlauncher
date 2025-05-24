@@ -1,0 +1,27 @@
+{
+    "name": "Skillet",
+    "icon": "farmersdelight:skillet",
+    "category": "patchouli:farmersdelight",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:skillet",
+            "title": "Skillet",
+            "text": "The Skillet is used to fry food quickly over a heat source."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Structure of Skillet",
+			"multiblock": {
+				"pattern": [
+					[ " G "],
+					[ " 0 "]
+				],
+				"mapping": {
+					"G": "farmersdelight:skillet",
+					"0": "farmersdelight:stove"
+				}
+			}
+        }
+    ]
+}

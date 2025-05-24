@@ -1,0 +1,13 @@
+{
+    "name": "Tierra de la buena",
+    "icon": "minecraft:coarse_dirt",
+    "category": "patchouli:quests",
+    "pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "coarse_dirt",
+			"title": "Tierra de la buena",
+			"text": "Como la tierra que necesita Homer Duckson."
+		}
+    ]
+}

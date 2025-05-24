@@ -1,0 +1,18 @@
+{
+    "name": "Cutting board",
+    "icon": "farmersdelight:cutting_board",
+    "category": "patchouli:farmersdelight",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:cutting_board",
+            "title": "Cutting board",
+            "text": "It is used to cut ingredients with knives."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "How to use",
+            "text": "Place an ingredient on the table (right-click), then right-click with a knife. You'll get the desired product."
+        }
+    ]
+}

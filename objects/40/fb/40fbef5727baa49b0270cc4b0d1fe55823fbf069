@@ -1,0 +1,13 @@
+{
+    "name": "Nice Dirt",
+    "icon": "minecraft:coarse_dirt",
+    "category": "patchouli:quests",
+    "pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "coarse_dirt",
+			"title": "Nice Dirt",
+			"text": "Like the land that Homer Duckson needs."
+		}
+    ]
+}
