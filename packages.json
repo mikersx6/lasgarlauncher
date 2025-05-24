@@ -2,10 +2,10 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "Vandreex",
-      "name" : "ivan",
-      "version" : "2025-02-17-21-47-03",
-      "location" : "ivan.json",
+      "title" : null,
+      "name" : "Arcana",
+      "version" : "2025-05-24-18-47-14",
+      "location" : "arcana.json",
       "priority" : 0
     }
   ]

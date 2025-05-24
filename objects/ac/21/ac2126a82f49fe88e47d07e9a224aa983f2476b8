@@ -1,0 +1,24 @@
+
+["General Settings"]
+	#Prints additional debug information to the log.
+	#In most cases this information isn't necessary and excessive debugging can generate lag.
+	#However, if you are troubleshooting or reporting an issue, advanced log info may be helpful to turn on.
+	advanced_debugging = false
+
+["Animal Settings"]
+
+	["Animal Settings"."Maned Wolf"]
+		#Replace Alex's Mobs maned wolves with tamable ones at chunk generation.
+		#Generally you will want this turned on, as otherwise maned wolves will all start with only the default fur variant.
+		#However, if you want to have both tamable and default maned wolves in your world, you can turn this off.
+		replace_maned_wolf_spawns = true
+		#Whether or not Alex's Mobs maned wolves can be fed apples or golden apples to turn them into their tamable variants.
+		#Generally you will want this turned on, as if you have any untamable maned wolves spawned in your world, they will remain unable to be tamed.
+		#However, if you want to use the default utility of untamable maned wolves, you may leave this on.
+		allow_maned_wolf_conversion = true
+		#A multiplier for how long a maned wolf should spend shaking.
+		#By default (multiplier 5), feeding a normal apple will cause a tamable maned wolf to shake for 5 seconds, and feeding a golden apple will cause a maned wolf to shake for 30 seconds.
+		#That number will then be multiplied by the below value.
+		#Range: 1 ~ 60
+		maned_wolf_shake_multiplier = 5
+
