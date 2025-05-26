@@ -1,0 +1,13 @@
+{
+	"name": "Crafteo de Mochila de Hierro",
+	"icon": "sophisticatedbackpacks:iron_backpack",
+	"category": "patchouli:backpacks",
+	"pages": [
+		{
+		"type": "patchouli:crafting",
+		"recipe": "sophisticatedbackpacks:iron_backpack",
+		"title": "Mochila de hierro",
+		"text": "54 slots"
+		}
+	]
+}

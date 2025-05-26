@@ -1,0 +1,11 @@
+{
+    "name": "Reglas de las Mochilas",
+    "icon": "minecraft:enchanted_book",
+    "category": "patchouli:backpacks",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Solo puedes usar una mochila normal, una mochila de color, una mochila de cobre o una mochila de hierro. Las mochilas de ORO, DIAMANTE y NETHERITE no están permitidas y serán eliminadas de tu inventario sin previo aviso."
+        }
+    ]
+}

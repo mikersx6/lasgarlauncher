@@ -1,0 +1,13 @@
+{
+	"name": "Crafteo de Mochila",
+	"icon": "sophisticatedbackpacks:backpack",
+	"category": "patchouli:backpacks",
+	"pages": [
+		{
+		"type": "patchouli:crafting",
+		"recipe": "sophisticatedbackpacks:backpack",
+		"title": "Mochila",
+		"text": "La misma cantidad que un solo cofre (27 slots), puedes teñirlo en una mesa de crafteo."
+		}
+	]
+}

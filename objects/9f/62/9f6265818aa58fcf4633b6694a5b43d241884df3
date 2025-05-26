@@ -1,0 +1,13 @@
+{
+	"name": "Crafteo de Mochila de Cobre",
+	"icon": "sophisticatedbackpacks:copper_backpack",
+	"category": "patchouli:backpacks",
+	"pages": [
+		{
+		"type": "patchouli:crafting",
+		"recipe": "sophisticatedbackpacks:copper_backpack",
+		"title": "Mochila de Cobre",
+		"text": "45 slots"
+		}
+	]
+}

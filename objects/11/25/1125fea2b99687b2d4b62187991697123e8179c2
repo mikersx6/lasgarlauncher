@@ -1,0 +1,27 @@
+{
+    "name": "Sartén",
+    "icon": "farmersdelight:skillet",
+    "category": "patchouli:farmersdelight",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:skillet",
+            "title": "Sartén",
+            "text": "La sartén se usa para freír alimentos rápidamente sobre una fuente de calor"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Estructura de sarten",
+			"multiblock": {
+				"pattern": [
+					[ " G "],
+					[ " 0 "]
+				],
+				"mapping": {
+					"G": "farmersdelight:skillet",
+					"0": "farmersdelight:stove"
+				}
+			}
+        }
+    ]
+}

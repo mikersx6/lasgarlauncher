@@ -1,0 +1,11 @@
+{
+    "name": "Backpack Rules",
+    "icon": "minecraft:enchanted_book",
+    "category": "patchouli:backpacks",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You can only use a normal backpack, colored backpack, copper backpack or a iron backpack, GOLD, DIAMOND AND NETHERITE backpacks are not permitted and will be removed from your inventory with no notice"
+        }
+    ]
+}

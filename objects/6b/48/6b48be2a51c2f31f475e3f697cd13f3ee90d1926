@@ -1,0 +1,13 @@
+{
+	"name": "Copper Backpack Craft",
+	"icon": "sophisticatedbackpacks:copper_backpack",
+	"category": "patchouli:backpacks",
+	"pages": [
+		{
+		"type": "patchouli:crafting",
+		"recipe": "sophisticatedbackpacks:copper_backpack",
+		"title": "Copper Backpack",
+		"text": "45 slots"
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+    "name": "Advanced Meals",
+    "icon": "farmersdelight:stuffed_potato",
+    "category": "patchouli:farmersdelight",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Platos deliciosos",
+            "text": "Farmer's Delight adds nutritious and flavorful dishes. Here's a complete list of recipes available for cooking in a pot or pan."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:stuffed_potato",
+            "title": "Stuffed Potato",
+            "text": "A powerful meal that combines potatoes, meat and milk"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:bacon_and_eggs",
+            "title": "Bacon and eggs",
+            "text": "A classic breakfast that refills hunger."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:vegetable_soup",
+            "title": "Vegetable soups",
+            "text": "In a cooking pot, add a Beetroot, Potato, Carrot and either a Cabbage or Cabbage Leaf."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:chicken_soup",
+            "title": "Chicken soup",
+            "text": "In a cooking pot, add Raw Chicken or Raw Cut Chicken along with Carrot, Onion and Cabbage or a Cabbage Leaf."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:beef_stew",
+            "title": "Beef Stew",
+            "text": "In a cooking pot, add Minced Beef/Raw Beef, Carrot, and Potato"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:pasta_with_meatballs",
+            "title": "Pasta with meatballs",
+            "text": "In a cooking pot, add Minced Beef, Raw Pasta, and Tomato Sauce"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:fish_stew",
+            "title": "Fish Stew",
+            "text": "In a cooking pot, add any raw fish, Tomato Sauce, and an Onion"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:ratatouille",
+            "title": "Ratatouille",
+            "text": "In a cooking pot, add a Beetroot, Onion, Tomato, and any Vegetable"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:cooked_rice",
+            "title": "Cooked Rice",
+            "text": "In a cooking pot, add Rice"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:salmon_roll",
+            "title": "Salmon roll",
+            "text": "Two Salmon Rolls can be crafted with two Raw Salmon Slices and one Cooked Rice"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:noodle_soup",
+            "title": "Noodle Soup",
+            "text": "In a cooking pot, add a Fried Egg, Raw Pasta, Dried Kelp and either Raw Bacon or Raw Porkchop."
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+	"name": "Normal Backpack Craft",
+	"icon": "sophisticatedbackpacks:backpack",
+	"category": "patchouli:backpacks",
+	"pages": [
+		{
+		"type": "patchouli:crafting",
+		"recipe": "sophisticatedbackpacks:backpack",
+		"title": "Normal Backpack",
+		"text": "The same amount as a single chest (27 slots), you can dye it on a crafting table"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"name": "Fogón",
+	"icon": "farmersdelight:stove",
+	"category": "patchouli:farmersdelight",
+	"pages": [
+		{
+		"type": "patchouli:crafting",
+		"recipe": "farmersdelight:stove",
+		"title": "Fogón",
+		"text": "El fogón sirve como fuente de calor para cocinar usando utensilios."
+		}
+	]
+}

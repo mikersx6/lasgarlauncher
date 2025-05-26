@@ -1,0 +1,27 @@
+{
+    "name": "Olla de cocina",
+    "icon": "farmersdelight:cooking_pot",
+    "category": "patchouli:farmersdelight",
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:cooking_pot",
+            "title": "Olla de cocina",
+            "text": "La Olla de cocina sirve para preparar guisos y sopas. Necesita estar sobre una fuente de calor"
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Estructura de olla",
+			"multiblock": {
+				"pattern": [
+					[ " G "],
+					[ " 0 "]
+				],
+				"mapping": {
+					"G": "farmersdelight:cooking_pot",
+					"0": "farmersdelight:stove"
+				}
+			}
+        }
+    ]
+}
